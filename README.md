@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Fenil Khatri</h1>
-<h3 align="center">✨ A Passionate Frontend Developer ✨</h3>
+<h1 align="left">👋 Hi, I'm Fenil Khatri</h1>
+<h3 align="left">✨ A Passionate Frontend Developer ✨</h3>
 
 ---
 
