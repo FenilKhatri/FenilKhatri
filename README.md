@@ -27,20 +27,13 @@ Fenil Khatri
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FenilKhatri&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" width="300px" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=FenilKhatri&theme=transparent&hide_border=false" width="300px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenilKhatri&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300px" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FenilKhatri&theme=tokyonight&hide_border=true" width="32%" height="full" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FenilKhatri&theme=tokyonight&hide_border=true" width="32%" height="full" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FenilKhatri&layout=compact&theme=tokyonight&hide_border=true" width="32%" height="full" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FenilKhatri&icon=0&color=0)](https://visitcount.itsvg.in)
